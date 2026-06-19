@@ -222,8 +222,6 @@ Detection 성능은 TP, FP, FN, Precision, Recall, F1으로 평가하였다.
 
 ![Detection count chart](assets/01_detection_counts_white.png)
 
-![Precision recall f1 chart](assets/02_precision_recall_f1_white.png)
-
 ### Detection Result Summary
 
 * **PH**는 TP가 108개로 가장 많고 FN이 43개로 가장 적어 recall 중심의 탐지에서 가장 우수하였다.
