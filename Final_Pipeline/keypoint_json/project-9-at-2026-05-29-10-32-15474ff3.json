@@ -1,0 +1,2168 @@
+[
+{
+  "img": "\/data\/upload\/9\/82b7f3a8-pipe_yz_MALA_000916.jpg",
+  "id": 148,
+  "kp-1": [
+    {
+      "x": 49.461728395061726,
+      "y": 27.40740740740741,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 38,
+  "created_at": "2026-05-29T00:48:13.178376Z",
+  "updated_at": "2026-05-29T00:48:13.179797Z",
+  "lead_time": 82.631
+},
+{
+  "img": "\/data\/upload\/9\/39c6f6a6-pipe_yz_MALA_001029.jpg",
+  "id": 149,
+  "kp-1": [
+    {
+      "x": 17.224691358024693,
+      "y": 19.62962962962963,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.77777777777778,
+      "y": 45.925925925925924,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 67.1604938271605,
+      "y": 44.25925925925926,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 76.1679012345679,
+      "y": 42.77777777777778,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 39,
+  "created_at": "2026-05-29T00:50:24.485938Z",
+  "updated_at": "2026-05-29T00:50:24.485938Z",
+  "lead_time": 29.842
+},
+{
+  "img": "\/data\/upload\/9\/d07c9128-pipe_yz_MALA_001043.jpg",
+  "id": 150,
+  "kp-1": [
+    {
+      "x": 7.5851851851851855,
+      "y": 25,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 23.387654320987654,
+      "y": 43.888888888888886,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.09382716049383,
+      "y": 35,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 67.63456790123456,
+      "y": 20.74074074074074,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 83.7530864197531,
+      "y": 20.74074074074074,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 40,
+  "created_at": "2026-05-29T00:52:07.321230Z",
+  "updated_at": "2026-05-29T00:52:07.321230Z",
+  "lead_time": 36.422
+},
+{
+  "img": "\/data\/upload\/9\/878e0525-pipe_yz_MALA_001149.jpg",
+  "id": 151,
+  "kp-1": [
+    {
+      "x": 36.66172839506173,
+      "y": 39.62962962962963,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 38.71604938271605,
+      "y": 60.370370370370374,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.09382716049383,
+      "y": 52.77777777777778,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 54.51851851851852,
+      "y": 52.59259259259259,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 39.6641975308642,
+      "y": 52.22222222222223,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 41,
+  "created_at": "2026-05-29T00:53:18.601446Z",
+  "updated_at": "2026-05-29T00:53:18.601993Z",
+  "lead_time": 69.082
+},
+{
+  "img": "\/data\/upload\/9\/10d40807-pipe_yz_MALA_001216.jpg",
+  "id": 152,
+  "kp-1": [
+    {
+      "x": 17.54074074074074,
+      "y": 38.7037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 28.444444444444443,
+      "y": 39.81481481481482,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.461728395061726,
+      "y": 24.814814814814813,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 64.6320987654321,
+      "y": 20.925925925925924,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 42,
+  "created_at": "2026-05-29T00:54:03.443227Z",
+  "updated_at": "2026-05-29T00:54:03.443227Z",
+  "lead_time": 41.141
+},
+{
+  "img": "\/data\/upload\/9\/de38a13f-pipe_yz_MALA_001231.jpg",
+  "id": 153,
+  "kp-1": [
+    {
+      "x": 51.04197530864197,
+      "y": 50.37037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 24.809876543209878,
+      "y": 41.48148148148148,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 64.31604938271605,
+      "y": 46.85185185185185,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 43,
+  "created_at": "2026-05-29T00:54:53.443175Z",
+  "updated_at": "2026-05-29T00:54:53.443175Z",
+  "lead_time": 38.353
+},
+{
+  "img": "\/data\/upload\/9\/b09855f8-pipe_yz_MALA_001277.jpg",
+  "id": 154,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 31.666666666666664,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 44,
+  "created_at": "2026-05-29T00:55:09.155798Z",
+  "updated_at": "2026-05-29T00:55:09.155798Z",
+  "lead_time": 11.114
+},
+{
+  "img": "\/data\/upload\/9\/53ff9243-pipe_yz_MALA_001322.jpg",
+  "id": 155,
+  "kp-1": [
+    {
+      "x": 41.24444444444445,
+      "y": 21.666666666666668,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.251851851851846,
+      "y": 44.44444444444444,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 46.77530864197531,
+      "y": 27.962962962962962,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 45,
+  "created_at": "2026-05-29T00:55:29.361341Z",
+  "updated_at": "2026-05-29T00:55:29.361341Z",
+  "lead_time": 18.187
+},
+{
+  "img": "\/data\/upload\/9\/e78d4e8d-pipe_yz_MALA_001333.jpg",
+  "id": 156,
+  "kp-1": [
+    {
+      "x": 50.567901234567906,
+      "y": 27.40740740740741,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 46,
+  "created_at": "2026-05-29T00:55:39.673110Z",
+  "updated_at": "2026-05-29T00:55:51.135773Z",
+  "lead_time": 14.998000000000001
+},
+{
+  "img": "\/data\/upload\/9\/816135ae-pipe_yz_MALA_001454.jpg",
+  "id": 157,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 28.888888888888886,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 47,
+  "created_at": "2026-05-29T00:56:04.819381Z",
+  "updated_at": "2026-05-29T00:56:04.819381Z",
+  "lead_time": 11.816
+},
+{
+  "img": "\/data\/upload\/9\/7fe29c0c-pipe_yz_MALA_001618.jpg",
+  "id": 158,
+  "kp-1": [
+    {
+      "x": 49.77777777777778,
+      "y": 33.7037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 48.82962962962963,
+      "y": 22.22222222222222,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 42.66666666666667,
+      "y": 15.555555555555555,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 20.859259259259257,
+      "y": 23.88888888888889,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 48,
+  "created_at": "2026-05-29T00:56:30.254181Z",
+  "updated_at": "2026-05-29T00:56:30.254181Z",
+  "lead_time": 20.356
+},
+{
+  "img": "\/data\/upload\/9\/3eae76d5-pipe_yz_MALA_001806.jpg",
+  "id": 159,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 32.77777777777778,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 49,
+  "created_at": "2026-05-29T00:56:41.148792Z",
+  "updated_at": "2026-05-29T00:56:41.148792Z",
+  "lead_time": 8.872
+},
+{
+  "img": "\/data\/upload\/9\/3f9060d4-pipe_yz_MALA_002021.jpg",
+  "id": 160,
+  "kp-1": [
+    {
+      "x": 25.91604938271605,
+      "y": 19.814814814814817,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 36.977777777777774,
+      "y": 19.814814814814817,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.619753086419756,
+      "y": 21.296296296296298,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.461728395061726,
+      "y": 28.333333333333332,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 50,
+  "created_at": "2026-05-29T00:57:30.307147Z",
+  "updated_at": "2026-05-29T00:57:30.307147Z",
+  "lead_time": 45.285
+},
+{
+  "img": "\/data\/upload\/9\/8e77d3dc-pipe_yz_MALA_002069.jpg",
+  "id": 161,
+  "kp-1": [
+    {
+      "x": 39.34814814814815,
+      "y": 32.77777777777778,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.9358024691358,
+      "y": 38.88888888888889,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 51.2,
+      "y": 37.96296296296296,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 51,
+  "created_at": "2026-05-29T00:57:59.506690Z",
+  "updated_at": "2026-05-29T00:57:59.506690Z",
+  "lead_time": 26.553
+},
+{
+  "img": "\/data\/upload\/9\/f16d9c9f-pipe_yz_MALA_002109.jpg",
+  "id": 162,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 30.555555555555557,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 63.20987654320987,
+      "y": 30.74074074074074,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 78.22222222222223,
+      "y": 24.074074074074073,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 52,
+  "created_at": "2026-05-29T00:58:25.714752Z",
+  "updated_at": "2026-05-29T00:58:25.714752Z",
+  "lead_time": 23.958
+},
+{
+  "img": "\/data\/upload\/9\/c90f2479-pipe_yz_MALA_002470.jpg",
+  "id": 163,
+  "kp-1": [
+    {
+      "x": 42.35061728395061,
+      "y": 24.62962962962963,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 53,
+  "created_at": "2026-05-29T00:58:38.251304Z",
+  "updated_at": "2026-05-29T00:58:38.251304Z",
+  "lead_time": 6.508
+},
+{
+  "img": "\/data\/upload\/9\/2cd23255-pipe_yz_MALA_002568.jpg",
+  "id": 164,
+  "kp-1": [
+    {
+      "x": 39.6641975308642,
+      "y": 35.55555555555556,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 69.68888888888888,
+      "y": 24.074074074074073,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 54,
+  "created_at": "2026-05-29T00:59:03.238419Z",
+  "updated_at": "2026-05-29T00:59:03.238419Z",
+  "lead_time": 22.679
+},
+{
+  "img": "\/data\/upload\/9\/8d442123-pipe_yz_MALA_002780.jpg",
+  "id": 165,
+  "kp-1": [
+    {
+      "x": 14.696296296296296,
+      "y": 35.37037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 18.804938271604936,
+      "y": 32.407407407407405,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 27.02222222222222,
+      "y": 29.444444444444446,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 55,
+  "created_at": "2026-05-29T00:59:30.696725Z",
+  "updated_at": "2026-05-29T00:59:30.696725Z",
+  "lead_time": 24.982
+},
+{
+  "img": "\/data\/upload\/9\/08594629-pipe_yz_MALA_002818.jpg",
+  "id": 166,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 23.51851851851852,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 26.39012345679012,
+      "y": 18.703703703703702,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 94.65679012345679,
+      "y": 30.185185185185187,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 56,
+  "created_at": "2026-05-29T00:59:53.886345Z",
+  "updated_at": "2026-05-29T00:59:53.886345Z",
+  "lead_time": 21.023
+},
+{
+  "img": "\/data\/upload\/9\/c45d9512-pipe_yz_MALA_002840.jpg",
+  "id": 167,
+  "kp-1": [
+    {
+      "x": 49.14567901234568,
+      "y": 48.333333333333336,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 60.681481481481484,
+      "y": 47.03703703703704,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 66.68641975308643,
+      "y": 51.2962962962963,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 5.214814814814814,
+      "y": 18.14814814814815,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 68.10864197530864,
+      "y": 26.296296296296294,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 97.18518518518519,
+      "y": 30.37037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 57,
+  "created_at": "2026-05-29T01:00:32.385770Z",
+  "updated_at": "2026-05-29T01:00:32.385770Z",
+  "lead_time": 36.447
+},
+{
+  "img": "\/data\/upload\/9\/95ba11cd-pipe_yz_MALA_002873.jpg",
+  "id": 168,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 44.25925925925926,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 40.770370370370365,
+      "y": 21.85185185185185,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 64.6320987654321,
+      "y": 24.074074074074073,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 58,
+  "created_at": "2026-05-29T01:00:51.613065Z",
+  "updated_at": "2026-05-29T01:00:51.613065Z",
+  "lead_time": 16.963
+},
+{
+  "img": "\/data\/upload\/9\/d9bea3eb-pipe_yz_MALA_002933.jpg",
+  "id": 169,
+  "annotator": 2,
+  "annotation_id": 59,
+  "created_at": "2026-05-29T01:01:00.152021Z",
+  "updated_at": "2026-05-29T01:01:00.152021Z",
+  "lead_time": 6.487
+},
+{
+  "img": "\/data\/upload\/9\/93f8aaaf-pipe_yz_MALA_002995.jpg",
+  "id": 170,
+  "kp-1": [
+    {
+      "x": 49.77777777777778,
+      "y": 27.22222222222222,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 60,
+  "created_at": "2026-05-29T01:01:10.697079Z",
+  "updated_at": "2026-05-29T01:01:10.697079Z",
+  "lead_time": 7.605
+},
+{
+  "img": "\/data\/upload\/9\/d7e0c36c-pipe_yz_MALA_003140.jpg",
+  "id": 171,
+  "kp-1": [
+    {
+      "x": 47.09135802469136,
+      "y": 44.44444444444444,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 61,
+  "created_at": "2026-05-29T01:01:20.865385Z",
+  "updated_at": "2026-05-29T01:01:20.865385Z",
+  "lead_time": 8.1
+},
+{
+  "img": "\/data\/upload\/9\/35dcccf3-pipe_yz_MALA_003388.jpg",
+  "id": 172,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 38.51851851851852,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 62,
+  "created_at": "2026-05-29T01:04:43.655812Z",
+  "updated_at": "2026-05-29T01:04:43.655812Z",
+  "lead_time": 193.33
+},
+{
+  "img": "\/data\/upload\/9\/526f46c7-pipe_yz_MALA_003525.jpg",
+  "id": 173,
+  "kp-1": [
+    {
+      "x": 49.619753086419756,
+      "y": 30.555555555555557,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 88.01975308641974,
+      "y": 37.96296296296296,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 63,
+  "created_at": "2026-05-29T01:09:30.413133Z",
+  "updated_at": "2026-05-29T01:09:30.413133Z",
+  "lead_time": 16.077
+},
+{
+  "img": "\/data\/upload\/9\/7c4b520b-pipe_yz_MALA_003562.jpg",
+  "id": 174,
+  "kp-1": [
+    {
+      "x": 41.24444444444445,
+      "y": 18.333333333333332,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.09382716049383,
+      "y": 28.333333333333332,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 64,
+      "y": 21.48148148148148,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 64,
+  "created_at": "2026-05-29T01:09:52.864726Z",
+  "updated_at": "2026-05-29T01:09:52.864726Z",
+  "lead_time": 20.504
+},
+{
+  "img": "\/data\/upload\/9\/68dce87b-pipe_yz_MALA_003709.jpg",
+  "id": 175,
+  "kp-1": [
+    {
+      "x": 49.77777777777778,
+      "y": 52.22222222222223,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 65,
+  "created_at": "2026-05-29T01:10:02.940767Z",
+  "updated_at": "2026-05-29T01:10:02.940767Z",
+  "lead_time": 8.194
+},
+{
+  "img": "\/data\/upload\/9\/fd194d1a-pipe_yz_MALA_003756.jpg",
+  "id": 176,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 37.03703703703704,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 66,
+  "created_at": "2026-05-29T01:10:11.954507Z",
+  "updated_at": "2026-05-29T01:10:11.954507Z",
+  "lead_time": 6.947
+},
+{
+  "img": "\/data\/upload\/9\/3e290180-pipe_yz_MALA_004300.jpg",
+  "id": 177,
+  "kp-1": [
+    {
+      "x": 50.72592592592593,
+      "y": 26.851851851851855,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 38.08395061728395,
+      "y": 26.851851851851855,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 8.849382716049382,
+      "y": 26.296296296296294,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 51.2,
+      "y": 38.148148148148145,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 83.59506172839505,
+      "y": 27.59259259259259,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 67,
+  "created_at": "2026-05-29T01:10:53.651456Z",
+  "updated_at": "2026-05-29T01:10:53.651456Z",
+  "lead_time": 39.769
+},
+{
+  "img": "\/data\/upload\/9\/347a4e27-pipe_yz_MALA_004352.jpg",
+  "id": 178,
+  "kp-1": [
+    {
+      "x": 50.09382716049383,
+      "y": 34.25925925925926,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 79.01234567901234,
+      "y": 20.555555555555554,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 68,
+  "created_at": "2026-05-29T01:11:08.828076Z",
+  "updated_at": "2026-05-29T01:11:08.828076Z",
+  "lead_time": 12.934
+},
+{
+  "img": "\/data\/upload\/9\/1c20a32e-pipe_yz_MALA_004409.jpg",
+  "id": 179,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 29.814814814814817,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 60.36543209876544,
+      "y": 24.074074074074073,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 69,
+  "created_at": "2026-05-29T01:11:25.057592Z",
+  "updated_at": "2026-05-29T01:11:25.057592Z",
+  "lead_time": 14.477
+},
+{
+  "img": "\/data\/upload\/9\/a95bccf6-pipe_yz_MALA_004596.jpg",
+  "id": 180,
+  "kp-1": [
+    {
+      "x": 49.14567901234568,
+      "y": 43.148148148148145,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 65.73827160493828,
+      "y": 41.11111111111111,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 9.79753086419753,
+      "y": 55.925925925925924,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 70,
+  "created_at": "2026-05-29T01:11:52.279515Z",
+  "updated_at": "2026-05-29T01:11:52.279515Z",
+  "lead_time": 25.11
+},
+{
+  "img": "\/data\/upload\/9\/2d28afe1-pipe_yz_MALA_004643.jpg",
+  "id": 181,
+  "kp-1": [
+    {
+      "x": 48.98765432098766,
+      "y": 45.925925925925924,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 32.711111111111116,
+      "y": 40.74074074074074,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 47.40740740740741,
+      "y": 28.703703703703702,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 60.839506172839506,
+      "y": 28.14814814814815,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 71,
+  "created_at": "2026-05-29T01:12:16.929351Z",
+  "updated_at": "2026-05-29T01:12:16.929351Z",
+  "lead_time": 22.324
+},
+{
+  "img": "\/data\/upload\/9\/3e36f338-pipe_yz_MALA_004680.jpg",
+  "id": 182,
+  "kp-1": [
+    {
+      "x": 34.92345679012346,
+      "y": 26.111111111111114,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 51.04197530864197,
+      "y": 39.81481481481482,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 54.20246913580247,
+      "y": 40.55555555555556,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 72,
+  "created_at": "2026-05-29T01:12:38.559965Z",
+  "updated_at": "2026-05-29T01:12:38.559965Z",
+  "lead_time": 17.181
+},
+{
+  "img": "\/data\/upload\/9\/875bf400-pipe_yz_MALA_004859.jpg",
+  "id": 183,
+  "kp-1": [
+    {
+      "x": 49.77777777777778,
+      "y": 25.555555555555554,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 73,
+  "created_at": "2026-05-29T01:12:47.468754Z",
+  "updated_at": "2026-05-29T01:12:47.468754Z",
+  "lead_time": 4.147
+},
+{
+  "img": "\/data\/upload\/9\/fb75f99d-pipe_yz_MALA_004883.jpg",
+  "id": 184,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 28.333333333333332,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.303703703703704,
+      "y": 47.03703703703704,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 65.58024691358025,
+      "y": 30,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 74,
+  "created_at": "2026-05-29T01:13:12.354802Z",
+  "updated_at": "2026-05-29T01:13:12.354802Z",
+  "lead_time": 20.387
+},
+{
+  "img": "\/data\/upload\/9\/edb9b5a4-pipe_yz_MALA_005369.jpg",
+  "id": 185,
+  "kp-1": [
+    {
+      "x": 31.446913580246914,
+      "y": 28.888888888888886,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.9358024691358,
+      "y": 41.11111111111111,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 75,
+  "created_at": "2026-05-29T01:13:39.688257Z",
+  "updated_at": "2026-05-29T01:13:39.688994Z",
+  "lead_time": 18.035
+},
+{
+  "img": "\/data\/upload\/9\/cc954f40-pipe_yz_MALA_005406.jpg",
+  "id": 186,
+  "kp-1": [
+    {
+      "x": 39.980246913580245,
+      "y": 27.59259259259259,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 76,
+  "created_at": "2026-05-29T01:13:50.151150Z",
+  "updated_at": "2026-05-29T01:13:50.151150Z",
+  "lead_time": 8.577
+},
+{
+  "img": "\/data\/upload\/9\/25864a8e-pipe_yz_MALA_005743.jpg",
+  "id": 187,
+  "kp-1": [
+    {
+      "x": 49.77777777777778,
+      "y": 34.629629629629626,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 68.89876543209877,
+      "y": 34.629629629629626,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 77,
+  "created_at": "2026-05-29T01:14:10.679693Z",
+  "updated_at": "2026-05-29T01:14:10.679693Z",
+  "lead_time": 14.405
+},
+{
+  "img": "\/data\/upload\/9\/1101fc7d-pipe_yz_MALA_005804.jpg",
+  "id": 188,
+  "kp-1": [
+    {
+      "x": 45.51111111111111,
+      "y": 34.25925925925926,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 73.00740740740741,
+      "y": 35.92592592592593,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 51.04197530864197,
+      "y": 43.888888888888886,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 78,
+  "created_at": "2026-05-29T01:14:38.514302Z",
+  "updated_at": "2026-05-29T01:14:38.514302Z",
+  "lead_time": 25.844
+},
+{
+  "img": "\/data\/upload\/9\/c6519855-pipe_yz_MALA_005881.jpg",
+  "id": 189,
+  "kp-1": [
+    {
+      "x": 50.567901234567906,
+      "y": 41.48148148148148,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 58.46913580246914,
+      "y": 36.666666666666664,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 59.73333333333334,
+      "y": 43.7037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 68.89876543209877,
+      "y": 45.74074074074074,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 79,
+  "created_at": "2026-05-29T01:15:17.270297Z",
+  "updated_at": "2026-05-29T01:15:17.270297Z",
+  "lead_time": 35.95
+},
+{
+  "img": "\/data\/upload\/9\/5ae53ee1-pipe_yz_MALA_006457.jpg",
+  "id": 190,
+  "kp-1": [
+    {
+      "x": 49.461728395061726,
+      "y": 18.703703703703702,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 81.69876543209877,
+      "y": 17.22222222222222,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 80,
+  "created_at": "2026-05-29T01:15:32.179499Z",
+  "updated_at": "2026-05-29T01:15:32.179499Z",
+  "lead_time": 12.869
+},
+{
+  "img": "\/data\/upload\/9\/41317c74-pipe_yz_MALA_006859.jpg",
+  "id": 191,
+  "kp-1": [
+    {
+      "x": 27.18024691358025,
+      "y": 28.14814814814815,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 27.33827160493827,
+      "y": 37.03703703703704,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.09382716049383,
+      "y": 37.77777777777778,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.72592592592593,
+      "y": 43.7037037037037,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 81,
+  "created_at": "2026-05-29T01:26:25.187017Z",
+  "updated_at": "2026-05-29T01:26:25.187017Z",
+  "lead_time": 614.902
+},
+{
+  "img": "\/data\/upload\/9\/972daf5e-pipe_yz_MALA_006969.jpg",
+  "id": 192,
+  "kp-1": [
+    {
+      "x": 49.77777777777778,
+      "y": 19.444444444444446,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 82,
+  "created_at": "2026-05-29T01:26:41.642682Z",
+  "updated_at": "2026-05-29T01:26:41.642682Z",
+  "lead_time": 9.896
+},
+{
+  "img": "\/data\/upload\/9\/521f32d8-pipe_yz_MALA_007056.jpg",
+  "id": 193,
+  "kp-1": [
+    {
+      "x": 38.71604938271605,
+      "y": 18.88888888888889,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.461728395061726,
+      "y": 24.074074074074073,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 90.07407407407408,
+      "y": 19.074074074074073,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 83,
+  "created_at": "2026-05-29T01:27:03.331599Z",
+  "updated_at": "2026-05-29T01:27:03.331599Z",
+  "lead_time": 19.658
+},
+{
+  "img": "\/data\/upload\/9\/d7e8c7d4-pipe_yz_MALA_007126.jpg",
+  "id": 194,
+  "kp-1": [
+    {
+      "x": 49.461728395061726,
+      "y": 35,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 84,
+  "created_at": "2026-05-29T01:27:35.352849Z",
+  "updated_at": "2026-05-29T01:27:35.352849Z",
+  "lead_time": 29.733
+},
+{
+  "img": "\/data\/upload\/9\/48062b74-pipe_yz_MALA_007163.jpg",
+  "id": 195,
+  "kp-1": [
+    {
+      "x": 50.251851851851846,
+      "y": 42.407407407407405,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 87.22962962962964,
+      "y": 73.14814814814815,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 85,
+  "created_at": "2026-05-29T01:27:59.120334Z",
+  "updated_at": "2026-05-29T01:27:59.120334Z",
+  "lead_time": 15.747
+},
+{
+  "img": "\/data\/upload\/9\/109d511d-pipe_yz_MALA_007188.jpg",
+  "id": 196,
+  "kp-1": [
+    {
+      "x": 25.283950617283953,
+      "y": 22.037037037037038,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 46.617283950617285,
+      "y": 22.962962962962962,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.77777777777778,
+      "y": 29.814814814814817,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 86,
+  "created_at": "2026-05-29T01:28:30.301920Z",
+  "updated_at": "2026-05-29T01:28:30.301920Z",
+  "lead_time": 28.964
+},
+{
+  "img": "\/data\/upload\/9\/28036d49-pipe_yz_MALA_007363.jpg",
+  "id": 197,
+  "kp-1": [
+    {
+      "x": 10.587654320987653,
+      "y": 33.88888888888889,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.77777777777778,
+      "y": 34.629629629629626,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 87,
+  "created_at": "2026-05-29T01:28:46.395893Z",
+  "updated_at": "2026-05-29T01:28:46.395893Z",
+  "lead_time": 11.608
+},
+{
+  "img": "\/data\/upload\/9\/d002f418-pipe_yz_MALA_007469.jpg",
+  "id": 198,
+  "kp-1": [
+    {
+      "x": 49.619753086419756,
+      "y": 26.296296296296294,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 88,
+  "created_at": "2026-05-29T01:28:57.940189Z",
+  "updated_at": "2026-05-29T01:28:57.940189Z",
+  "lead_time": 9.226
+},
+{
+  "img": "\/data\/upload\/9\/34cb22cd-pipe_yz_MALA_007578.jpg",
+  "id": 199,
+  "kp-1": [
+    {
+      "x": 49.9358024691358,
+      "y": 36.11111111111111,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 89,
+  "created_at": "2026-05-29T01:29:06.689680Z",
+  "updated_at": "2026-05-29T01:29:06.689680Z",
+  "lead_time": 6.633
+},
+{
+  "img": "\/data\/upload\/9\/af3f6b94-pipe_yz_MALA_007592.jpg",
+  "id": 200,
+  "kp-1": [
+    {
+      "x": 49.619753086419756,
+      "y": 37.22222222222222,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 90,
+  "created_at": "2026-05-29T01:29:17.409967Z",
+  "updated_at": "2026-05-29T01:29:17.409967Z",
+  "lead_time": 6.906
+},
+{
+  "img": "\/data\/upload\/9\/fd2be1aa-pipe_yz_MALA_000090.jpg",
+  "id": 201,
+  "kp-1": [
+    {
+      "x": 87.38765432098765,
+      "y": 15.925925925925927,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 94.0246913580247,
+      "y": 21.85185185185185,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.09382716049383,
+      "y": 36.11111111111111,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 25.125925925925923,
+      "y": 30.925925925925924,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 28.602469135802473,
+      "y": 30.925925925925924,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 12.325925925925926,
+      "y": 34.25925925925926,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 16.276543209876543,
+      "y": 32.77777777777778,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 91,
+  "created_at": "2026-05-29T01:29:59.743314Z",
+  "updated_at": "2026-05-29T01:29:59.743314Z",
+  "lead_time": 37.583
+},
+{
+  "img": "\/data\/upload\/9\/8ba46812-pipe_yz_MALA_000335.jpg",
+  "id": 202,
+  "annotator": 2,
+  "annotation_id": 92,
+  "created_at": "2026-05-29T01:30:07.329914Z",
+  "updated_at": "2026-05-29T01:30:07.331356Z",
+  "lead_time": 5.898
+},
+{
+  "img": "\/data\/upload\/9\/fe38a301-pipe_yz_MALA_000358.jpg",
+  "id": 203,
+  "kp-1": [
+    {
+      "x": 50.09382716049383,
+      "y": 39.25925925925926,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 37.29382716049383,
+      "y": 49.074074074074076,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 93,
+  "created_at": "2026-05-29T01:30:23.489191Z",
+  "updated_at": "2026-05-29T01:30:23.489191Z",
+  "lead_time": 14.125
+},
+{
+  "img": "\/data\/upload\/9\/bbb3e365-pipe_yz_MALA_000397.jpg",
+  "id": 204,
+  "kp-1": [
+    {
+      "x": 11.377777777777778,
+      "y": 21.85185185185185,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 11.377777777777778,
+      "y": 28.51851851851852,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 27.970370370370368,
+      "y": 19.444444444444446,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.567901234567906,
+      "y": 34.44444444444444,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 94,
+  "created_at": "2026-05-29T01:30:53.511441Z",
+  "updated_at": "2026-05-29T01:30:53.511441Z",
+  "lead_time": 27.881
+},
+{
+  "img": "\/data\/upload\/9\/310ff071-pipe_yz_MALA_000423.jpg",
+  "id": 205,
+  "kp-1": [
+    {
+      "x": 14.538271604938272,
+      "y": 36.851851851851855,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 28.91851851851852,
+      "y": 54.44444444444444,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 50.09382716049383,
+      "y": 18.51851851851852,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.9358024691358,
+      "y": 27.59259259259259,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 95,
+  "created_at": "2026-05-29T01:31:28.914663Z",
+  "updated_at": "2026-05-29T01:31:28.914663Z",
+  "lead_time": 28.611
+},
+{
+  "img": "\/data\/upload\/9\/75400eb9-pipe_yz_MALA_000581.jpg",
+  "id": 206,
+  "kp-1": [
+    {
+      "x": 48.67160493827161,
+      "y": 52.407407407407405,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 53.096296296296295,
+      "y": 53.148148148148145,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 51.8320987654321,
+      "y": 48.333333333333336,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 96,
+  "created_at": "2026-05-29T01:31:44.685076Z",
+  "updated_at": "2026-05-29T01:31:44.685076Z",
+  "lead_time": 12.765
+},
+{
+  "img": "\/data\/upload\/9\/2602722a-pipe_yz_MALA_000604.jpg",
+  "id": 207,
+  "kp-1": [
+    {
+      "x": 29.70864197530864,
+      "y": 46.2962962962963,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 34.13333333333333,
+      "y": 45,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 49.619753086419756,
+      "y": 43.888888888888886,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    },
+    {
+      "x": 60.997530864197536,
+      "y": 36.666666666666664,
+      "width": 0.3160493827160494,
+      "keypointlabels": [
+        "utility point"
+      ],
+      "original_width": 300,
+      "original_height": 256
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 97,
+  "created_at": "2026-05-29T01:32:04.939824Z",
+  "updated_at": "2026-05-29T01:32:04.939824Z",
+  "lead_time": 18.165
+}
+]
